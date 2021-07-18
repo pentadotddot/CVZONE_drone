@@ -18,6 +18,8 @@ Just go to the folder where the track.py file is located and then execute the fo
 
 ```python3 track.py --source ./cvzone_cars_vid.mp4 --yolo_weights ./yolov5/best.pt --show-vid --save-vid```
 
+The trained weights used to produce the result can be downloaded from here:  https://drive.google.com/file/d/11yO4HAAgWEsoKcZ4o20-9NXFn5hLXpiH/view?usp=sharing
+
 # Yolov5 + Deep Sort with PyTorch
 
 
