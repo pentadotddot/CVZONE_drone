@@ -16,6 +16,5 @@ Install every prerequisite according to this repo: https://github.com/mikel-bros
 
 Just go to the folder where the track.py file is located and then execute the following command:
 
-```
-python3 track.py --source ./cvzone_cars_vid.mp4 --yolo_weights ./yolov5/best.pt --show-vid --save-vid
-```python
+```python3 track.py --source ./cvzone_cars_vid.mp4 --yolo_weights ./yolov5/best.pt --show-vid --save-vid```
+
