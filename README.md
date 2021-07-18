@@ -21,6 +21,8 @@ Just go to the folder where the track.py file is located and then execute the fo
 The trained weights used to produce the result can be downloaded from here:  https://drive.google.com/file/d/11yO4HAAgWEsoKcZ4o20-9NXFn5hLXpiH/view?usp=sharing
 Then best.pt has to be copied to the /yolov5 folder.
 
+Result: https://youtu.be/TYdhOroHxMI
+
 # Yolov5 + Deep Sort with PyTorch
 
 
